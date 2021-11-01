@@ -12,6 +12,7 @@ To acquire the data to analyze the simulated questions, BigQuery and Google Shee
 SQL reference (https://github.com/riconoll/ProjectOne/blob/main/SQL_Query)
 
 Visualization reference (https://docs.google.com/spreadsheets/d/1XM9oV8Xd0A5Rr8VV1eiGRMfex9mMm0ssCDcUUuEQjyA/edit?usp=sharing)
+
 With all the data needed, Sheets was used for visualization. Showcasing the number of players retained of it 365-day life-cycle. In one of the visualization, scatter plot was used to a better representation of Retained VS Non-Retained players over the game life-cycle. One visualization shows a dip on the trend line for the last 31 days, due to the unknown whether the player who joined ‘late’ in the game will play after the 30 days. Taking out the outlier of the last 31 days, it shows a stable trend line rather than a decline.
 
 !['description'](RetainedVSNOn.png)
