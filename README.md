@@ -1,6 +1,6 @@
 30 Day Analysis – Player Retention 
 
-The data query created explores player who were retained past 30 days and information on where the players are, their spent on them to the system players use. This project was in collaboration with Miguel Pallas.
+The data query created explores player who were retained past 30 days and information on where the players are, their spent on them to the system players use. This project was in collaboration with Miguel Pallas (emepemi@gmail.com).
 
 Simulated questions how many players joined on specific day and with those players how many were retained. As well as the fractional retention of players.
 Additional analysis included of players with rolling 30-day retention spend more to players who aren’t retained and if they’re in specific region. Also view of which platform/system do most player prefer.
