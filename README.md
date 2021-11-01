@@ -1,4 +1,4 @@
-30 Day Analysis – Player Retention 
+H1 30 Day Analysis – Player Retention 
 
 The data query created explores player who were retained past 30 days and information on where the players are, their spent on them to the system players use. This project was in collaboration with Miguel Pallas (emepemi@gmail.com).
 
