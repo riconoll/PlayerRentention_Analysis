@@ -1,6 +1,7 @@
 30 Day Analysis – Player Retention 
 
 The data query created explores player who were retained past 30 days and information on where the players are, their spent on them to the system players use. This project was in collaboration with Miguel Pallas (emepemi@gmail.com).
+
 Miguel's repository (https://github.com/MiguelPMiralles/SQL_Project)
 
 Simulated questions of how many players joined on specific day and with those players how many were retained. As well as the fractional retention of players.
